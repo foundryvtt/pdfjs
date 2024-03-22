@@ -1,0 +1,5 @@
+# GH Actions
+.github
+
+# MAP files
+build/*.map
